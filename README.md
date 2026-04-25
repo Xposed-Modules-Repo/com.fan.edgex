@@ -1,4 +1,4 @@
-# EdgeX - Gesture Control
+# EdgeX
 
 [English](./README_EN.md)
 
